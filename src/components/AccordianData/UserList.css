@@ -1,0 +1,60 @@
+
+
+.image-data img{
+    background-repeat: no-repeat;
+    border-radius: 50%;
+  }
+  
+  .name-data{
+    position: relative;
+    top: -30%;
+    left: 10%;
+  }
+
+  .field .title, .field-data{
+    display: block;
+  }
+
+  .age-gen-country{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .MuiAccordionDetails-root{
+    display: block !important;
+  }
+  
+  .MuiAccordion-rounded{
+    margin: 25px 0;
+  }
+
+  .field-icons{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .field-icons img{
+    width: 15%;
+    cursor: pointer;
+  }
+
+  .delete-icon{
+    width: 16%;
+    justify-content: flex-end;
+    display: flex;
+    height: 10%;
+    padding-right: 3%;
+  }
+
+
+  .edit-data{
+    position: relative;
+  }
+
+  .desc{
+    margin: 15px;
+  }
+
+  .field .title{
+    color: #aaa3a3;
+  }
